@@ -1,0 +1,2 @@
+Part 1: http://www2.scs.ryerson.ca/~l86wong/lab05/lab05.php
+Part 2: http://webdev.scs.ryerson.ca:8080/l86wong/lab05.asp
